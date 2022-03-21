@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/last-orbit/Article-Preview-Compnent-FEM)
+- Live Site URL: (https://article-preview-compnent-fem.vercel.app/)
 
 ## My process
 
